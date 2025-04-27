@@ -1,1 +1,3 @@
 # html-portfolio
+This project is a simple HTML-based portfolio website. It features a homepage that introduces Jhone as a web developer and showcases two main projects: a Movie Ranking project and a Birthday Invitation project. Each project is linked with a corresponding image preview. Additionally, there are navigation links to an "About Me" page and a "Contact Me" page. The folder structure is organized with an assets folder for images and a public folder for additional project pages. To view the website, simply open the index.html file in a web browser. This project is designed as a beginner-level exercise to practice basic HTML skills, and it may be expanded later with CSS and JavaScript for styling and interactivity.
+
